@@ -15,3 +15,6 @@ Database: MySQL
 Visualization: Power BI
 👋🏻 Connect with Me
 Linkedin
+- George Washington
+* John Adams
++ Thomas Jefferson
